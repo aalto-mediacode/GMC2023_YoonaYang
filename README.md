@@ -1,3 +1,2 @@
 # GMC2023_YoonaYang
-<img width="1680" alt="mainImage_01" src="https://user-images.githubusercontent.com/96958198/221147474-1f4fed73-1259-47b5-bf45-7351898ddba6.png">
-
+<img width="1680" alt="main_image_01" src="https://user-images.githubusercontent.com/96958198/221167131-b1881284-5a9f-41e0-aca4-9ed732c80d77.png">
