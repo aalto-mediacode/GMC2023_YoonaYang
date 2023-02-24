@@ -3,8 +3,7 @@
 
 <h3> Unusual arrangement </h3>
 
-Each cube’s position refers the position of mouseX and mouseY that I clicked. The specific rule to refer it is unusual. The position of the one cube refers the current mouse X and Y, but also previous mouse X and Y. 
-There is a formula behind this.
+Each cube’s position follows the rule with the position of mouseX and mouseY that I clicked. The specific rule to refer it is unusual. The position of the one cube refers the current mouse X and Y, but also previous mouse X and Y. There is a formula behind this.
 
 The new cube’s X-position is the result of current mouseX minus previous mouseX. If the result is over 0, the new cube appears on the right side of the previous cube. If the result is less than 0, the new cube appears on the left side of the previous cube. 
 
